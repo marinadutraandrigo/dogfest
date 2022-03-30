@@ -1,0 +1,217 @@
+body{
+	margin: 0;
+	padding: 0;
+	border:0;
+}
+
+/* Text style of all pages */
+
+h1{
+	font-family: Arial;
+	text-align: center;
+	color: #293156;
+	font-size:3vw;
+}
+h2{
+	font-family: Arial;
+	text-align: center;
+	color: #293156;
+	font-size:2vw;
+}
+p{
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-size:1.2vw;
+}
+
+a{
+	font-family: Arial;
+	text-decoration: none;
+	color: red;
+}
+.menu{
+	font-family: Arial;
+	text-decoration:none;
+	color: white;
+	
+}
+ul{
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-size:1.2vw;
+	list-style-position: inside;
+}
+pre{
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-size:1.2vw;
+	
+}
+
+/* Header style*/
+
+#dogfest-navbar{
+	width: 100%;
+	height: auto;
+	
+}
+
+#header{
+	width: 100%;
+	height: auto;
+ 
+}
+
+.content{
+	margin-left: 100px;
+	margin-right: 100px;
+	
+}
+#menutable{
+	width: 100%;
+	text-align: center;
+	background-color:#df067b;
+	
+}
+
+/* Homepage elements style */
+
+.Images1{
+	display: flex;
+    gap:10px;
+    justify-content: center;
+    margin: 0 auto;
+	margin-bottom: 30px;
+}
+	
+#Have-a-Go{
+	float: left;
+	width: 400px;
+	height: auto;
+	position: relative;
+	
+}
+#Have-a-Go_img{
+	display: block;
+    width: 100%;
+}
+
+#Shopping{
+	float: left;
+	width: 400px;
+	height: auto;
+	position: relative;
+		
+}
+#Shopping_img{
+	display: block;
+    width: 100%;
+}
+
+.Images2{
+	display: flex;
+    gap:10px;
+    justify-content: center;
+    margin: 0 auto;
+	margin-bottom: 30px;
+
+}
+#PuppyAcademy{
+	clear:both;
+	float: left;
+	width: 400px;
+	height: auto;
+	position: relative;
+	
+}
+#PuppyAcademy_img{
+	display: block;
+    width: 100%;
+}
+
+#Bigdogwalk{
+	float: left;
+	width: 400px;
+	height: auto;
+	position: relative;
+	
+}
+#Bigdogwalk_img{
+	display: block;
+    width: 100%;
+}
+
+/* Have-a-Go elements style */
+
+ #Grooming{
+	float: left;
+	width: 100%;
+	height: auto;
+	position: relative;
+	justify-content: center;
+	margin: 0 auto;
+	margin-bottom: 30px;
+
+ }
+
+#Grooming_img{
+	float: left;
+	display: block;
+    width: 400px;
+}
+
+#Playground{
+	float: left;
+	width: 100%;
+	height: auto;
+	position: relative;
+	justify-content: center;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	
+ }
+#Playground_img{
+	float: left;
+	display: block;
+    width: 400px;
+}
+
+/* Shopping elements style */
+
+.Shopping{
+	float: left;
+	width: 100%;
+	height: auto;
+	position: relative;
+	justify-content: center;
+	display: flex;
+    gap:10px;
+    
+    margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+#online-pet-shop{
+	width: 300px;
+	height: auto;
+}
+#shop{
+    width: 200px;
+	height: auto;
+}
+
+/* PuppyAcademy elements style */
+
+.puppyacademy{
+	float: left;
+	width: 100%;
+	height: auto;
+	position: relative;
+	justify-content: center;
+	display: flex;
+}
+
+
